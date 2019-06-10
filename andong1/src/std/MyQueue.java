@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 package std;
 
 public interface MyQueue {
@@ -98,3 +99,12 @@ public class MyQueue extends Memory{
 
 }
 >>>>>>> parent of 7f20ea8... Initial commit
+=======
+package std;
+
+public interface MyQueue {
+	
+	void push() ;
+	void pop();
+}
+>>>>>>> parent of 53c84ef... 스택 큐

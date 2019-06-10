@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 package std;
 
 public class Memory implements MyStack,MyQueue{
@@ -46,3 +47,22 @@ public class Memory {
 
 }
 >>>>>>> parent of 7f20ea8... Initial commit
+=======
+package std;
+
+public class Memory implements MyStack,MyQueue{
+
+	@Override
+	public void push() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void pop() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
+>>>>>>> parent of 53c84ef... 스택 큐

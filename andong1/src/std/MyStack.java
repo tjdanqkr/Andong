@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 package std;
 
 public interface MyStack {
@@ -100,3 +101,12 @@ public class MyStack extends Memory{
 
 }
 >>>>>>> parent of 7f20ea8... Initial commit
+=======
+package std;
+
+public interface MyStack {
+	
+	public void push();
+	public void pop();
+}
+>>>>>>> parent of 53c84ef... 스택 큐
